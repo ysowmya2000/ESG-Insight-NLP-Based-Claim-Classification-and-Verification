@@ -39,7 +39,7 @@ If category labels are unavailable, this project uses keyword-based mapping to c
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Accurately classify sustainability-related text into ESG categories.  
 - Detect unverifiable claims (e.g., “We care for the planet”) using rule-based analysis.  
@@ -47,7 +47,7 @@ If category labels are unavailable, this project uses keyword-based mapping to c
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Cleaned text by lowercasing, removing punctuation, and normalizing whitespace.  
@@ -102,7 +102,7 @@ If category labels are unavailable, this project uses keyword-based mapping to c
 
 ---
 
-## 📚 Dataset
+## Dataset
 [Kaggle – ESG Sustainability Reports of S&P 500 Companies](https://www.kaggle.com/datasets/synful/world-esg-sustainability-reports)
 
 
