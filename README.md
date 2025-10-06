@@ -105,8 +105,4 @@ If category labels are unavailable, this project uses keyword-based mapping to c
 ## 📚 Dataset
 [Kaggle – ESG Sustainability Reports of S&P 500 Companies](https://www.kaggle.com/datasets/synful/world-esg-sustainability-reports)
 
----
 
-## Author
-**Sowmya Yerraguntla**  
-Developed as part of a Data Science portfolio project.
